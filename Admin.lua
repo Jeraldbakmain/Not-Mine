@@ -557,5 +557,5 @@ end)
 
 Warn("Reanimated in " .. string.sub(tostring(tick()-Speed),1,string.find(tostring(tick()-Speed),".")+5))
 if not DisableAnimations then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Gelatekussy/GelatekReanimate/main/Addons/Animations.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeraldbakmain/Not-Mine/refs/heads/main/Reanimate.lua"))()
 end
